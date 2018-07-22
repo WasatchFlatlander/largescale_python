@@ -1,0 +1,3 @@
+ERROR:root:oops
+WARNING:root:look out
+CRITICAL:root:we have a problem
